@@ -111,6 +111,7 @@
           <InArgument x:TypeArguments="x:String">Liverpool</InArgument>
           <InArgument x:TypeArguments="x:String">Bristol</InArgument>
           <InArgument x:TypeArguments="x:String">Cambridge</InArgument>
+          <InArgument x:TypeArguments="x:String">B city</InArgument>
         </scg:List>
       </uasc:BuildCollection.NextItems>
     </uasc:BuildCollection>
